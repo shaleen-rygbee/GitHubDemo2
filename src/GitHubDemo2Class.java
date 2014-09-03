@@ -6,6 +6,8 @@ public class GitHubDemo2Class {
 
 		System.out.println("Git Hub Demo 2");
 		
+		System.out.println("More code");
+		
 	}
 
 }
